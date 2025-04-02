@@ -9,8 +9,8 @@ This cluster comes with the sample collection, "sample_mflix", which has the dat
 ![collections](imgs/2.png)
 
 ## Compass
-![Compass](imgs/3.png)
 I also installed Compass and connected to my Atlas Cluster.
+![Compass](imgs/3.png)
 
 ## "movies" Database
 ![Movies](imgs/4.png)
