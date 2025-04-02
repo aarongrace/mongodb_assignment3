@@ -13,8 +13,8 @@ I also installed Compass and connected to my Atlas Cluster.
 ![Compass](imgs/3.png)
 
 ## "movies" Database
-![Movies](imgs/4.png)
 The "movies" database can be seen on Compass. On this view, mongosh is accessible through "Open MongoDB shell". Below are the two queries made according to the assignment instructions.
+![Movies](imgs/4.png)
 
 ## Query 1
 ![query1](imgs/5.png)
